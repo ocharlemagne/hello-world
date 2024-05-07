@@ -6,3 +6,5 @@ This tutorial focuses mainly on git and using github as it remote
 This repository is build step by step in the tutoriel
 
 It now includes steps for github
+
+This line doesn't mean anything
